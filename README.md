@@ -1,2 +1,2 @@
 # IMDBClassification
-Implementing the SGD Logistic Regression algorithm to classify IMDB comments.
+Implementing the SGD Logistic Regression and Naive Bayes algorithms to classify IMDB comments.
