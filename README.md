@@ -10,15 +10,14 @@ After converting all the comments ,we tune the hyperparameters (the parameters o
 Finally for each algorithm we calculate the learning curves and accuracy (>80%).
 
 From Logistic regression we get the following diagrams:
-![1](https://user-images.githubusercontent.com/50478180/109492511-c5aa8500-7a93-11eb-8c38-321a93b6552b.png)
 
+![1](https://user-images.githubusercontent.com/50478180/109492511-c5aa8500-7a93-11eb-8c38-321a93b6552b.png)
 ![2](https://user-images.githubusercontent.com/50478180/109492596-e246bd00-7a93-11eb-89cc-706de44ad812.png)
 
 
 From Naive Bayes we get the following diagrams:
 
 ![3](https://user-images.githubusercontent.com/50478180/109492664-fdb1c800-7a93-11eb-9528-00f330b97356.png)
-
 ![4](https://user-images.githubusercontent.com/50478180/109492669-ff7b8b80-7a93-11eb-85c2-538fdd16276b.png)
 
 
