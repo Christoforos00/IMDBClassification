@@ -23,8 +23,11 @@ From Naive Bayes we get the following diagrams:
 
 The code files are
 • logReg.py, where the functions of the Logistic Regression algorithm are implemented
+
 • naiveBayes.py, where the functions of the Naive Bayes algorithm are implemented
+
 • dataUtils.py, which contains functions for editing and converting text
+
 • mainNotebook.ipynb, where the main part of the work is located
 
 The dataset is located at https://ai.stanford.edu/~amaas/data/sentiment/ .
